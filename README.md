@@ -20,6 +20,7 @@ Note app (Both frontend and backend) created with Flutter and Firebase.
  * View notes in list or grid layout
  * Change app theme - light or dark theme
  * Add and edit notes
+ * Offline Support to access the notes without internet.
  * Colorful notes (random)
 
 ## iOS Demo
